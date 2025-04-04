@@ -14,7 +14,6 @@ I'm currently working on Mohx <br>I'm currently learning Gen AI and Deep Learnin
 
 ---
 [![](https://visitcount.itsvg.in/api?id=apoorvaa227&icon=0&color=0)](https://visitcount.itsvg.in)
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
 
 
 
