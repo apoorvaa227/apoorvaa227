@@ -6,6 +6,8 @@
 package main
 import "fmt"
 
+
+
 type Explorer struct {
 	Name            string
 	Role            string
@@ -13,6 +15,9 @@ type Explorer struct {
 	Learning        string
 	FunFact         string
 }
+
+
+
 
 func main() {
 	me := Explorer{
