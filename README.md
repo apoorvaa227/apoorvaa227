@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on Mohx <br>I'm currently learning Gen AI and Deep Learning <br>
+I'm currently working on Vas Venture <br>I'm currently learning Gen AI and Deep Learning <br>
 
 
 ## 🌐 Socials:
